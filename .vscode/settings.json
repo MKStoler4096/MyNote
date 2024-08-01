@@ -1,9 +1,0 @@
-{
-    "Codegeex.SidebarUI.LanguagePreference": "中文",
-    "Codegeex.CompletionDelay": 0.1,
-    "C_Cpp.errorSquiggles": "enabled",
-    "C_Cpp.default.compilerPath": "f:\\msys64\\ucrt64\\bin\\gcc.exe",
-    "files.associations": {
-        "ostream": "cpp"
-    }
-}
